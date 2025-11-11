@@ -11,7 +11,8 @@ When the **primary EC2 instance stops or fails**, EventBridge automatically trig
 
 ## ⚙️ Architecture Overview
 
-![Architecture](./screenshots/architecture.png)
+<img width="1024" height="1536" alt="architecture" src="https://github.com/user-attachments/assets/b81d16eb-8ac7-4c90-b75f-9e5952b0c8c9" />
+
 
 **Flow:**
 1. Primary EC2 is running your application.
